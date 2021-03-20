@@ -1,6 +1,5 @@
 # Assignment_1
-
-To demonstrate below tasks:
+This reposetory is to to demonstrate below tasks:
 
 Add team members as collaborators and assign them appropriate rights (if you are performing individual then create one dummy account for the task)
 
